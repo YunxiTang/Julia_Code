@@ -1,0 +1,7 @@
+name = "demo"
+uuid = "2052dbd2-9c11-4ca2-ac81-abd5e70cc7cc"
+authors = ["YunxiTang <1155136594@link.cuhk.edu.hk>"]
+version = "0.1.0"
+
+[deps]
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
